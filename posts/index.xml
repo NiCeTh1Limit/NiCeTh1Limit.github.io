@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NiCeTh1Limit</title>
+    <link>http://NiCeTh1Limit.github.io/posts/</link>
+    <description>Recent content in Posts on NiCeTh1Limit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 26 Nov 2020 16:24:25 +0800</lastBuildDate><atom:link href="http://NiCeTh1Limit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First</title>
+      <link>http://NiCeTh1Limit.github.io/posts/my-first-file/</link>
+      <pubDate>Thu, 26 Nov 2020 16:24:25 +0800</pubDate>
+      
+      <guid>http://NiCeTh1Limit.github.io/posts/my-first-file/</guid>
+      <description>測試部落格</description>
+    </item>
+    
+  </channel>
+</rss>
